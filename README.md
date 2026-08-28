@@ -97,6 +97,25 @@ dependencies, nothing to configure.
 
 <!-- /forge-usage:v1 -->
 
+
+<!-- forge-siblings:v1 -->
+
+## More from the same author
+
+Other free, open-source Claude Code tools in this family. Each one stands
+alone -- none of them depend on this repo, or on each other.
+
+- [smelt](https://github.com/angyal168/smelt) -- Extract actionable insights from any resource -- burn off the slag, keep the pure metal
+- [dar](https://github.com/angyal168/dar) -- Lightweight audit trail for Claude Code -- Discovery, Artifact, Receipt
+- [serious](https://github.com/angyal168/serious) -- Precision mode for Claude Code -- no hype, no ambiguity, only what's true
+- [forge-prompt](https://github.com/angyal168/forge-prompt) -- Prompt coaching for Claude Code -- rates, sharpens, and rewrites your prompts into action-first form
+- [council](https://github.com/angyal168/council) -- AI advisory board for Claude Code -- 6 executive perspectives debate any decision
+- [rally](https://github.com/angyal168/rally) -- Multi-agent coordination for Claude Code -- keep parallel agents in sync through a shared bus file
+- [ouroboros](https://github.com/angyal168/ouroboros) -- Stop prompting. Start specifying
+- [logos-protocol](https://github.com/angyal168/logos-protocol) -- Forge an AI that knows you, remembers, and ascends. Open source, free, yours to imprint
+
+<!-- /forge-siblings:v1 -->
+
 ## Part Of
 
 This command is part of the [Logos Protocol](https://github.com/angyal168/logos-protocol) -- an open protocol for building an AI assistant that actually knows you.
