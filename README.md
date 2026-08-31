@@ -129,7 +129,7 @@ MIT
 
 This repo is one module. It handles unattended iteration loops; it does not compose itself into a working system -- that wiring is a separate job.
 
-- **[The Forge Full Stack Bundle for Claude Code](https://notes.aingyal.com/go/gh-ralph/nlajnm/)** -- a paid pack of Claude Code commands from the same author ($129).
+- **[The Forge Full Stack Bundle for Claude Code](https://andrewhangyal.gumroad.com/l/nlajnm?utm_source=github&utm_medium=readme&utm_campaign=gh-ralph)** -- a paid pack of Claude Code commands from the same author ($129).
 - [All tools, free and paid](https://tools.aingyal.com/?utm_source=github&utm_medium=readme&utm_campaign=ralph) -- the full index.
 
 Listed so you can find them if they are useful to you. Nothing here is required to use this repo, which stays free.
