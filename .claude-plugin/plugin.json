@@ -1,0 +1,17 @@
+{
+  "name": "ralph",
+  "version": "1.0.0",
+  "description": "Autonomous iteration loop for Claude Code -- define task, set condition, let it run.",
+  "author": {
+    "name": "angyal168",
+    "url": "https://github.com/angyal168"
+  },
+  "repository": "https://github.com/angyal168/ralph",
+  "homepage": "https://notes.aingyal.com/go/plugin-ralph/nlajnm/",
+  "keywords": [
+    "claude-code",
+    "slash-command",
+    "ralph"
+  ],
+  "license": "MIT"
+}
