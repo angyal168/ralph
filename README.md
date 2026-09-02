@@ -28,6 +28,21 @@ Then type `/ralph` and define your task.
 - Operator can interrupt at any time
 
 
+<!-- forge-plugin-install:v1 -->
+## Install as a Claude Code plugin
+
+One command instead of copying a file:
+
+```
+/plugin marketplace add angyal168/logos-protocol
+/plugin install ralph@forge-commands
+```
+
+That installs `/ralph` from the `forge-commands` marketplace, which also carries the
+other six free commands. The manual copy above still works and stays supported.
+
+<!-- /forge-plugin-install:v1 -->
+
 <!-- forge-usage:v1 -->
 
 ## What it actually does
